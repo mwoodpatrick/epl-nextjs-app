@@ -1,0 +1,6 @@
+module.exports = {
+  env: {
+    MY_SLASH_ENDPOINT: `YOUR_SLASH_ENDPOINT`,
+    MY_API_KEY: 'YOUR_API_KEY',
+  },
+}
